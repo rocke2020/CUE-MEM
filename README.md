@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AAAI_2027-Under_Review-315EA8?style=flat-square" alt="AAAI 2027 · Under Review">
   <a href="https://reichenbach1854-hash.github.io/CUE-Mem/"><img src="https://img.shields.io/badge/🌐_Online_Demo-Explore-2563EB?style=flat-square" alt="Online demo"></a>
   <a href="https://huggingface.co/datasets/Kkryptonite/CUE-Mem"><img src="https://img.shields.io/badge/🤗_Hugging_Face-Dataset-FFCC4D?style=flat-square" alt="Dataset on Hugging Face"></a>
   <a href="#getting-started"><img src="https://img.shields.io/badge/🚀_Quick_Start-Code-16A085?style=flat-square" alt="Quick start"></a>
